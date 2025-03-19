@@ -3,7 +3,7 @@ import OpenAI from "openai";
 import Markdown from "react-markdown";
 
 const openai = new OpenAI({
-  apiKey:
+  apiKey:" ",
   dangerouslyAllowBrowser: true,
 });
 
